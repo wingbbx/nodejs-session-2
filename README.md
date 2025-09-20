@@ -1,6 +1,6 @@
-# Node.js Session 2 – Hands-on (Sep 12, 2025)
+# Node.js Session 2 – Hands-on (Sep 19, 2025)
 
-On **September 12, 2025**, we continued our hands-on with **Node.js + Express + Sequelize (MySQL)**.
+On **September 19, 2025**, we continued our hands-on with **Node.js + Express + Sequelize (MySQL)**.
 We extended the CRUD functionality by adding endpoints to **list, create, and delete users**.
 The next task is to **rebuild everything and add the edit (update) endpoint**.
 
@@ -84,7 +84,3 @@ Rebuild the CRUD and add the **update** endpoint:
 
 * `PUT /users/:id` or `PATCH /users/:id`
   Include validation, not-found handling, and correct status codes.
-
-## GitHub Topics (suggested)
-
-`nodejs`, `express`, `sequelize`, `dotenv`, `backend`, `crud`, `controllers`, `routes`, `models`, `orm`, `mysql`
